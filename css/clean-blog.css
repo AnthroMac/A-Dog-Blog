@@ -25,11 +25,11 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #333333;
+  color: #FF0000;
 }
 a:hover,
 a:focus {
-  color: #0085A1;
+  color: #FF0000;
 }
 a img:hover,
 a img:focus {
@@ -57,7 +57,7 @@ hr.small {
   font-weight: 800;
 }
 .navbar-custom .navbar-header .navbar-toggle {
-  color: #777777;
+  color: #FF0000;
   font-weight: 800;
   text-transform: uppercase;
   font-size: 12px;
