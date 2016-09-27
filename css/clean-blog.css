@@ -15,14 +15,18 @@ p {
 p a {
   text-decoration: underline;
 }
-h1, 
+h1 {
+  font-family: Palatino, 'Palatino Linotype', serif; color: rgb(121,149,117);
+font-size: 32px; color: red;
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800; 
+  font-weight: 800; color: red;
 }
 a {
   color: Red;
