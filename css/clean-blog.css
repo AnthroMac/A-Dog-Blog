@@ -15,11 +15,7 @@ p {
 p a {
   text-decoration: underline;
 }
-h1 {
-  font-family: Palatino, 'Palatino Linotype', serif; color: rgb(128,0,128);
-font-size: 32px; 
-}
-
+h1, 
 h2,
 h3,
 h4,
