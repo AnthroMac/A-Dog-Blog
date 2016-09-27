@@ -16,7 +16,7 @@ p a {
   text-decoration: underline;
 }
 h1 {
-  font-family: Palatino, 'Palatino Linotype', serif; color:  rgb(128,0,128;
+  font-family: Palatino, 'Palatino Linotype', serif; color:  rgb(128,0,128);
 font-size: 32px; 
 }
 
@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800; color: red;
+  font-weight: 800; 
 }
 a {
   color: Red;
@@ -172,7 +172,7 @@ hr.small {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
-  color: red;
+  color:  rgb(128,0,128);
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -182,7 +182,7 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
-  color: red;
+  color:  rgb(128,0,128);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
@@ -192,7 +192,7 @@ hr.small {
 }
 .intro-header .post-heading h1 {
   font-size: 35px;
-  color: red;
+  color:  rgb(128,0,128);
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -201,7 +201,7 @@ hr.small {
 }
 .intro-header .post-heading .subheading {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: red;
+  color:  rgb(128,0,128);
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
@@ -213,12 +213,12 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: red;
+  color:  rgb(128,0,128);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
-    color: red;
+    color:  rgb(128,0,128);
   }
   .intro-header .post-heading .subheading {
     font-size: 30px;
